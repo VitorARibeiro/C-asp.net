@@ -1,0 +1,35 @@
+@model SistemaCadastro.Controllers.ContactosController
+
+@{
+    ViewData["Title"] = "Pagina Principal";
+}
+
+<div class="text-center">
+    
+<h1> Adicionar Registo</h1>
+    
+</div>
+
+<form>
+    <div class="mb-3">
+        <label class="form-label">Nome</label>
+        <input type="Text" class="form-control" >
+       
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Email </label>
+        <input type="Text" class="form-control" >
+        
+    </div>
+    
+    <div class="mb-3">
+        <label class="form-label">Contacto</label>
+        <input type="Text" class="form-control" >
+        
+    </div>
+    
+    
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+    <a role="button" class="btn btn-primary" asp-controller="Contactos" asp-action="Index">Cancelar</a>
+</form>

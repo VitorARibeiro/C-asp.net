@@ -1,0 +1,67 @@
+@model SistemaCadastro.Controllers.ContactosController
+
+@{
+    ViewData["Title"] = "Contactos";
+}
+
+<div class="align-content-lg-end">
+    <a role="button" class="btn btn-primary" asp-controller="Contactos" asp-action="Adicionar">Adicionar Contacto</a>
+</div>
+
+<div class="text-center">
+    <h1 class="display-4">Resgisto de contactos</h1>
+</div>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th scope="col">#</th>
+        <th scope="col">Nome</th>
+        <th scope="col">Email</th>
+        <th scope="col">Numero Contacto</th>
+        <th scope="col"></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th scope="row">1</th>
+        <td>Mark</td>
+        <td>Otto@gmail.com</td>
+        <td>123456789</td>
+        <td>
+            <div class="btn-group" role="group" >
+                <a role="button" class="btn btn-primary" asp-controller="Contactos" asp-action="Editar">Editar</a>
+                <a role="button" class="btn btn-primary" asp-controller="Contactos" asp-action="Apagar" >Apagar</a>
+            </div>
+        </td>
+    </tr>
+    
+    <tr>
+        <th scope="row">2</th>
+        <td>Mark</td>
+        <td>Otto@gmail.com</td>
+        <td>123456789</td>
+        <td>
+            <div class="btn-group" role="group" >
+                <a role="button" class="btn btn-primary" asp-controller="Contactos" asp-action="Editar">Editar</a>
+                <a role="button" class="btn btn-primary" asp-controller="Contactos" asp-action="Apagar" >Apagar</a>
+            </div>
+        </td>
+    </tr>
+    
+    <tr>
+        <th scope="row">3</th>
+        <td>Mark</td>
+        <td>Otto@gmail.com</td>
+        <td>123456789</td>
+        <td>
+            <div class="btn-group" role="group" >
+                <a role="button" class="btn btn-primary" asp-controller="Contactos" asp-action="Editar">Editar</a>
+                <a role="button" class="btn btn-primary" asp-controller="Contactos" asp-action="Apagar">Apagar</a>
+            </div>
+        </td>
+    </tr>
+    
+  
+    </tbody>
+</table>
