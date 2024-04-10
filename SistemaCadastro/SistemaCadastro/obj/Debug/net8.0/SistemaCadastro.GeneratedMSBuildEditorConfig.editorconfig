@@ -9,51 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaCadastro
 build_property.RootNamespace = SistemaCadastro
-build_property.ProjectDir = /home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/
+build_property.ProjectDir = C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro
+build_property.MSBuildProjectDirectory = C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Contactos/Adicionar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdG9zL0FkaWNpb25hci5jc2h0bWw=
+[C:/Users/Vitor/Desktop/Github Clones/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Contactos/Adicionar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9zXEFkaWNpb25hci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Contactos/Apagar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdG9zL0FwYWdhci5jc2h0bWw=
+[C:/Users/Vitor/Desktop/Github Clones/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Contactos/Apagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9zXEFwYWdhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Contactos/Editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdG9zL0VkaXRhci5jc2h0bWw=
+[C:/Users/Vitor/Desktop/Github Clones/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Contactos/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9zXEVkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Contactos/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdG9zL0luZGV4LmNzaHRtbA==
+[C:/Users/Vitor/Desktop/Github Clones/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Contactos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/Vitor/Desktop/Github Clones/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/Vitor/Desktop/Github Clones/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/Vitor/Desktop/Github Clones/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/Vitor/Desktop/Github Clones/C-asp.net/SistemaCadastro/SistemaCadastro/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/Vitor/Desktop/Github Clones/C-asp.net/SistemaCadastro/SistemaCadastro/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-hs3f0dvn7u
+[C:/Users/Vitor/Desktop/Github Clones/C-asp.net/SistemaCadastro/SistemaCadastro/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2wwwdos8ue

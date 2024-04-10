@@ -29,3 +29,34 @@
 /home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/obj/Debug/net8.0/SistemaCadastro.pdb
 /home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/obj/Debug/net8.0/SistemaCadastro.genruntimeconfig.cache
 /home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/obj/Debug/net8.0/ref/SistemaCadastro.dll
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\bin\Debug\net8.0\appsettings.json
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\bin\Debug\net8.0\SistemaCadastro.staticwebassets.runtime.json
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\bin\Debug\net8.0\SistemaCadastro.exe
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\bin\Debug\net8.0\SistemaCadastro.deps.json
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\bin\Debug\net8.0\SistemaCadastro.runtimeconfig.json
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\bin\Debug\net8.0\SistemaCadastro.dll
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\bin\Debug\net8.0\SistemaCadastro.pdb
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\SistemaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\SistemaCadastro.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\SistemaCadastro.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\SistemaCadastro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\SistemaCadastro.RazorAssemblyInfo.cache
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\SistemaCadastro.RazorAssemblyInfo.cs
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\SistemaCadastro.sourcelink.json
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\staticwebassets\msbuild.SistemaCadastro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\staticwebassets\msbuild.build.SistemaCadastro.props
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SistemaCadastro.props
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SistemaCadastro.props
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\scopedcss\bundle\SistemaCadastro.styles.css
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\scopedcss\projectbundle\SistemaCadastro.bundle.scp.css
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\SistemaCadastro.dll
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\refint\SistemaCadastro.dll
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\SistemaCadastro.pdb
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\SistemaCadastro.genruntimeconfig.cache
+C:\Users\Vitor\Desktop\Github Clones\C-asp.net\SistemaCadastro\SistemaCadastro\obj\Debug\net8.0\ref\SistemaCadastro.dll

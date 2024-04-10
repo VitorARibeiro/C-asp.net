@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/SistemaCadastro.csproj": {}
+    "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\SistemaCadastro.csproj": {}
   },
   "projects": {
-    "/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/SistemaCadastro.csproj": {
+    "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\SistemaCadastro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/SistemaCadastro.csproj",
+        "projectUniqueName": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\SistemaCadastro.csproj",
         "projectName": "SistemaCadastro",
-        "projectPath": "/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/SistemaCadastro.csproj",
-        "packagesPath": "/home/vitor/.nuget/packages/",
-        "outputPath": "/home/vitor/Documents/ClonedRepos/C-asp.net/SistemaCadastro/SistemaCadastro/obj/",
+        "projectPath": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\SistemaCadastro.csproj",
+        "packagesPath": "C:\\Users\\Vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/vitor/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
