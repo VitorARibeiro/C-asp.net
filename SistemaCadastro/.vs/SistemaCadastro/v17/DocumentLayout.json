@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\migrations\\20240416184606_criartabelacontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\migrations\\20240416184606_criartabelacontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\controllers\\contactoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\controllers\\contactoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\views\\contactos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\views\\contactos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\views\\contactos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\views\\contactos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\sistemacadastro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\sistemacadastro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\views\\contactos\\apagar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\views\\contactos\\apagar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\vitor\\desktop\\github clones\\c-asp.net\\sistemacadastro\\sistemacadastro\\views\\contactos\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20348962-5AA0-4764-816B-DB4942D9857D}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\views\\contactos\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,72 +50,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SistemaCadastro\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SistemaCadastro\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvyoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-10T14:11:45.512Z",
+              "DocumentIndex": 2,
+              "Title": "20240416184606_CriarTabelaContatos.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Migrations\\20240416184606_CriarTabelaContatos.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Migrations\\20240416184606_CriarTabelaContatos.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Migrations\\20240416184606_CriarTabelaContatos.cs",
+              "RelativeToolTip": "SistemaCadastro\\Migrations\\20240416184606_CriarTabelaContatos.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:46:06.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SistemaCadastro\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SistemaCadastro\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T14:11:34.546Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaCadastro\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\appsettings.json",
+              "RelativeToolTip": "SistemaCadastro\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T18:38:13.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ContactosController.cs",
-              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Controllers\\ContactosController.cs",
-              "RelativeDocumentMoniker": "SistemaCadastro\\Controllers\\ContactosController.cs",
-              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Controllers\\ContactosController.cs",
-              "RelativeToolTip": "SistemaCadastro\\Controllers\\ContactosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Program.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Program.cs",
+              "RelativeToolTip": "SistemaCadastro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T14:11:29.169Z",
+              "WhenOpened": "2024-04-16T18:30:39.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Data\\DataContext.cs",
+              "RelativeToolTip": "SistemaCadastro\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:07:18.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Views\\Contactos\\Index.cshtml",
-              "RelativeDocumentMoniker": "SistemaCadastro\\Views\\Contactos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Views\\Contactos\\Index.cshtml",
-              "RelativeToolTip": "SistemaCadastro\\Views\\Contactos\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-10T14:10:15.786Z",
+              "Title": "ContactosController.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Controllers\\ContactosController.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Controllers\\ContactosController.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Controllers\\ContactosController.cs",
+              "RelativeToolTip": "SistemaCadastro\\Controllers\\ContactosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:08:48.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Views\\Contactos\\Editar.cshtml",
-              "RelativeDocumentMoniker": "SistemaCadastro\\Views\\Contactos\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Views\\Contactos\\Editar.cshtml",
-              "RelativeToolTip": "SistemaCadastro\\Views\\Contactos\\Editar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-10T14:10:14.091Z",
+              "Title": "ContatoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Models\\ContatoModel.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Models\\ContatoModel.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Models\\ContatoModel.cs",
+              "RelativeToolTip": "SistemaCadastro\\Models\\ContatoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:07:34.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "SistemaCadastro",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\SistemaCadastro.csproj",
+              "RelativeDocumentMoniker": "SistemaCadastro\\SistemaCadastro.csproj",
+              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\SistemaCadastro.csproj",
+              "RelativeToolTip": "SistemaCadastro\\SistemaCadastro.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T17:55:51.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Apagar.cshtml",
               "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Views\\Contactos\\Apagar.cshtml",
               "RelativeDocumentMoniker": "SistemaCadastro\\Views\\Contactos\\Apagar.cshtml",
@@ -123,33 +149,7 @@
               "RelativeToolTip": "SistemaCadastro\\Views\\Contactos\\Apagar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-10T14:10:09.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SistemaCadastro\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SistemaCadastro\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-10T14:09:21.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Adicionar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Views\\Contactos\\Adicionar.cshtml",
-              "RelativeDocumentMoniker": "SistemaCadastro\\Views\\Contactos\\Adicionar.cshtml",
-              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\C-asp.net\\SistemaCadastro\\SistemaCadastro\\Views\\Contactos\\Adicionar.cshtml",
-              "RelativeToolTip": "SistemaCadastro\\Views\\Contactos\\Adicionar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-10T14:10:00.584Z",
+              "WhenOpened": "2024-04-16T17:30:53.233Z",
               "EditorCaption": ""
             }
           ]
