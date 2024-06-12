@@ -65,16 +65,30 @@ using (var scope = app.Services.CreateScope())
 // Caso este email exista, adicionar a role admin
 using (var scope = app.Services.CreateScope())
 {
+    //Definicao de UserManager
     var userManager = scope.ServiceProvider.GetRequiredService<UserManager<IdentityUser>>();
+    
+   //Todos os utilizadores sao membros  
+    var users = userManager.Users.ToList();
+        foreach (var user in users)
+        {
+            var userRoles = await userManager.GetRolesAsync(user);
+            if (!userRoles.Contains("Member"))
+            {
+                await userManager.AddToRoleAsync(user, "Member");
+            }
+        } 
+        
+    // O utilizador com este email passa a ser admin 
     string email = "admin123@gmail.com";
 
-    var user = await userManager.FindByEmailAsync(email);
-    if (user != null )
+    var adminuser = await userManager.FindByEmailAsync(email);
+    if (adminuser != null )
     {
-        var roles = await userManager.GetRolesAsync(user);
+        var roles = await userManager.GetRolesAsync(adminuser);
         if (!roles.Contains("Admin"))
         {
-         await userManager.AddToRoleAsync(user, "Admin");
+         await userManager.AddToRoleAsync(adminuser, "Admin");
         }
     }
 }

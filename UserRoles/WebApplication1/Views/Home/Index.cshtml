@@ -1,8 +1,18 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    var role = ViewBag.Role as string;
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-<p>Aplicação de teste de roles.</p>
+<div class="container welcome-container">
+    @switch (role)
+    {
+        case "Admin":
+            @Html.Partial("IndexAdminPartial")
+            break;
+        case "Member":
+            @Html.Partial("IndexMemberPartial")
+            break;
+        default:
+            @Html.Partial("IndexGuestPartial")
+            break;
+    }
 </div>
